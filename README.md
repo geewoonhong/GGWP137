@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GGWP137
+- 👋 Hello, I’m Geewoon Hong. A 20-something individual sailing through whatever life hands me.
 - 👀 I’m interested in learning more about computers and the art of programming!
 - 🌱 I’m currently learning C, Git, and other computer-related topics/applications/theories 
 - 💞️ I’m looking to collaborate on ...
